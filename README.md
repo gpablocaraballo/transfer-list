@@ -13,5 +13,6 @@ Use tailwindcss for styling.
 
 ![image](https://github.com/user-attachments/assets/b9b9167a-123f-41d5-b2bf-59dc81a44448)
 
+to run it, npm install and npm start
 
 
